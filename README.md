@@ -1,2 +1,2 @@
 # FileCrypt
- Encrypt and decrypt ur file
+ Encrypt and decrypt ur file with low efficiency :(
