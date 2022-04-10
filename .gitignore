@@ -1,3 +1,6 @@
+# Java output files
+*.class
+
 # IDEA files
 *.iml
 *.ipr
